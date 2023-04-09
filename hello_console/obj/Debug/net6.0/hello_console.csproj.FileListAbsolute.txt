@@ -1,0 +1,15 @@
+A:\учеба\программирование\лекция 1\hello_console\bin\Debug\net6.0\hello_console.exe
+A:\учеба\программирование\лекция 1\hello_console\bin\Debug\net6.0\hello_console.deps.json
+A:\учеба\программирование\лекция 1\hello_console\bin\Debug\net6.0\hello_console.runtimeconfig.json
+A:\учеба\программирование\лекция 1\hello_console\bin\Debug\net6.0\hello_console.dll
+A:\учеба\программирование\лекция 1\hello_console\bin\Debug\net6.0\hello_console.pdb
+A:\учеба\программирование\лекция 1\hello_console\obj\Debug\net6.0\hello_console.csproj.AssemblyReference.cache
+A:\учеба\программирование\лекция 1\hello_console\obj\Debug\net6.0\hello_console.GeneratedMSBuildEditorConfig.editorconfig
+A:\учеба\программирование\лекция 1\hello_console\obj\Debug\net6.0\hello_console.AssemblyInfoInputs.cache
+A:\учеба\программирование\лекция 1\hello_console\obj\Debug\net6.0\hello_console.AssemblyInfo.cs
+A:\учеба\программирование\лекция 1\hello_console\obj\Debug\net6.0\hello_console.csproj.CoreCompileInputs.cache
+A:\учеба\программирование\лекция 1\hello_console\obj\Debug\net6.0\hello_console.dll
+A:\учеба\программирование\лекция 1\hello_console\obj\Debug\net6.0\refint\hello_console.dll
+A:\учеба\программирование\лекция 1\hello_console\obj\Debug\net6.0\hello_console.pdb
+A:\учеба\программирование\лекция 1\hello_console\obj\Debug\net6.0\hello_console.genruntimeconfig.cache
+A:\учеба\программирование\лекция 1\hello_console\obj\Debug\net6.0\ref\hello_console.dll
